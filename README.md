@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
+
 **zoekurtzer/zoekurtzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🪢 I’m looking to collaborate on projects!
+- 🫡 I’m always learning and open to feedback
+- 💬 Ask me about anything!
+- 🖇 Interested in working together? Reach out to me via email.
+- 🚀 I am interested in space exploration
+- 🥃 I like to draw
+- 🇰🇿 Qazaq-American, Central Asian
+
+
